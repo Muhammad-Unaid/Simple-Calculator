@@ -4,8 +4,13 @@
     font-size: 'Poppins',sans-serif;
     box-sizing: border-box;
 }
+h1{
+   text-align: center;
+   font-family:  sans-serif;
+   
+}
 .container{
-    width: 100vh;
+    width: 100%;
     height: 100vh;
     background: #e3f9ff;
     display: flex;
